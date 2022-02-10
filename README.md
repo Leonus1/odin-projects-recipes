@@ -1,3 +1,13 @@
-# odin-recipes
+The Odin Project
 
-Learning how to use Git and Github
+Foundations
+
+Project: Recipes
+
+Objectives: HTML practice
+
+Description: Build a simple website that contains several webpages for a couple of recipes
+
+Credits: https://www.ricardocuisine.com/
+
+edit: external CSS tweaks from CSS Foundations included
