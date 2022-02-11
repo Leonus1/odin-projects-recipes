@@ -1,0 +1,28 @@
+.index {
+  font-size: 36px;
+  text-align: center;
+}
+.odin {
+  background-color: salmon;
+  color: white;
+  font-weight: bold;
+}
+.couscous {
+  background-color: salmon;
+  color: white;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.title-couscous {
+  text-align: center;
+}
+.tajine {
+  background-color: salmon;
+  color: white;
+  font-weight: bold;
+  font-family: "Courier New", Courier, monospace;
+}
+.title-tajine {
+  text-align: center;
+}
