@@ -6,6 +6,10 @@
   background-color: salmon;
   color: white;
   font-weight: bold;
+  display: inline-block;
+  width: 20%;
+  height: 40px;
+  padding: 20px;
 }
 .couscous {
   background-color: salmon;
